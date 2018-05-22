@@ -1,2 +1,9 @@
 # CrossyRoadClone
-University project for VJ subject. Copy of the original game Crossy Road.
+
+Crossy Road created with Unity Engine 2017
+
+Game developed by:
+
+- Aarón Jiménez García
+
+- Àlex Viñas Termes
